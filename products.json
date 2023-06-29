@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "tittle": "Televisor LG 50'",
+    "description": "Televisor Smart ultimo modelo",
+    "price": 2210,
+    "thumbnail": "Sin imagen1",
+    "code": "abc123",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "tittle": "Lavadora Samsung Digital Inverter 13KG",
+    "description": "Lavadora Samsung ultimo modelo de 13 KG",
+    "price": 1250,
+    "thumbnail": "Sin imagen2",
+    "code": "abc1234",
+    "stock": 29
+  },
+  {
+    "id": 3,
+    "tittle": "Celular Iphone 14 Pro Max",
+    "description": "Celular Iphone ultimo en el mercado",
+    "price": 4590,
+    "thumbnail": "Sin imagen3",
+    "code": "abc12345",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "tittle": "Laptop Gamer ASUS X872",
+    "description": "Laptop Gamer para juegos pesados",
+    "price": 6880,
+    "thumbnail": "Sin imagen4",
+    "code": "abc12346",
+    "stock": 45
+  }
+]
